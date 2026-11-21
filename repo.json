@@ -1,0 +1,32 @@
+[
+    {
+        "Author":  "jake",
+        "Name":  "Questionable Helper",
+        "InternalName":  "QuestionableHelper",
+        "AssemblyVersion":  "0.11.108.0",
+        "Description":  "A modular helper for bounded Questionable recovery, exact-prompt safeguards, guarded ARR unlock routes, combat-stall recovery, and Stone Vigil Duty Support level/gear repair.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "aetheryte",
+                     "teleport",
+                     "questionable",
+                     "watchdog",
+                     "combat",
+                     "utility"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Command-only Questionable recovery watchdog with guarded helper actions.",
+        "AcceptsFeedback":  false,
+        "RepoUrl":  "https://github.com/jakeliu/dalamud-repo",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/QuestionableHelper/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/QuestionableHelper/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/QuestionableHelper/latest.zip",
+        "LastUpdate":  1795305012,
+        "IsHide":  false,
+        "IsTestingExclusive":  false
+    }
+]
