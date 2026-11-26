@@ -33,7 +33,7 @@
     "Author":  "jake",
     "Name":  "HousingResultRunner",
     "InternalName":  "HousingResultRunner",
-    "AssemblyVersion":  "0.4.531.0",
+    "AssemblyVersion":  "0.4.533.0",
     "Description":  "Plans housing candidates and assignments, coordinates same-computer clients, performs explicitly armed guarded FC bids, tracks durable bid lifecycles, and records housing evidence.",
     "ApplicableVersion":  "any",
     "Tags":  [
@@ -52,7 +52,7 @@
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/HousingResultRunner/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/HousingResultRunner/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/HousingResultRunner/latest.zip",
-    "LastUpdate":  1795316823,
+    "LastUpdate":  1795716259,
     "IsHide":  false,
     "IsTestingExclusive":  false
 },
