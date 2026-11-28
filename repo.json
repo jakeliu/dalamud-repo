@@ -115,7 +115,7 @@
     "Author":  "jake",
     "Name":  "Regional Auto Relog",
     "InternalName":  "RegionalAutoRelog",
-    "AssemblyVersion":  "0.5.10.0",
+    "AssemblyVersion":  "0.5.11.0",
     "Description":  "Tracks an exact character and visited world per client. After a known network disconnect it can request an in-process title-screen login through AutoRetainer or Lifestream, with an exact-CID current-lobby fallback. It never starts or kills a game process; on a Mac it closes its own game normally when the Relog Supervisor app asks while this client is waiting for a restart.",
     "ApplicableVersion":  "any",
     "Tags":  [
@@ -134,7 +134,7 @@
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/RegionalAutoRelog/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/RegionalAutoRelog/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/jakeliu/dalamud-repo/main/plugins/RegionalAutoRelog/latest.zip",
-    "LastUpdate":  1795306721,
+    "LastUpdate":  1795824467,
     "IsHide":  false,
     "IsTestingExclusive":  false
 }
